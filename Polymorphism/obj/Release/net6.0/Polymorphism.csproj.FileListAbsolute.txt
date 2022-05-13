@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/bin/Release/net6.0/Polymorphism
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/bin/Release/net6.0/Polymorphism.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/bin/Release/net6.0/Polymorphism.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/bin/Release/net6.0/Polymorphism.dll
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/bin/Release/net6.0/Polymorphism.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.dll
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/refint/Polymorphism.dll
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/Polymorphism.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/Polymorphism/obj/Release/net6.0/ref/Polymorphism.dll
